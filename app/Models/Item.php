@@ -11,6 +11,7 @@ class Item extends Model
     use HasFactory,SoftDeletes;
     protected $table = 'item';
 
+    //TES COMMENT
     /**
      * The attributes that are mass assignable.
      *
